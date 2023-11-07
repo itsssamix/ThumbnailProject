@@ -1,1 +1,1 @@
-a simples project using Flask framework to get the thumbnail imagems from Youtube videos 
+a simples project using Flask framework to get the thumbnail images from Youtube videos 
